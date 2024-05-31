@@ -1,0 +1,17 @@
+{
+  "name": "faris_table",
+  "version": "1.0.3",
+  "description": "Table Creator",
+  "main": "Table_By_ForLoop.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  }
+}
